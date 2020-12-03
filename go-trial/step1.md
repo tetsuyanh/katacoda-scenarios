@@ -1,6 +1,6 @@
 これを打ってください。
 
-```go
+```golang
 package main
 
 import "fmt"
@@ -9,3 +9,5 @@ func main() {
   fmt.Println("hello")
 }
 ```
+
+`go run app.go`{{execute}}

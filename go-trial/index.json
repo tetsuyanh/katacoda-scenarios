@@ -23,13 +23,15 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
+    "hideintro": true,
     "uilayout": "editor-terminal"
   },
   "backend": {

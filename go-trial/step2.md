@@ -1,6 +1,6 @@
 これを打ってください。
 
-```go
+```golang
 package main
 
 import "fmt"
